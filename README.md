@@ -1,3 +1,3 @@
-Hello reader!
+Hello user and reader!
 
 # installation instructions
